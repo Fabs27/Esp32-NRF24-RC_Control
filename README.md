@@ -2,7 +2,7 @@ Aqui está a primeira parte do README detalhado para o projeto do transmissor e 
 
 ---
 
-# 6-Channel Transmitter and Receiver using ESP32 and NRF24L01
+# 20-Channel Transmitter and Receiver using ESP32 and NRF24L01
 
 ## Sumário
 - [Descrição](#descrição)
@@ -36,7 +36,7 @@ Este projeto consiste em um transmissor e receptor de 6 canais utilizando a plac
 ### Receptor:
 - 1 x ESP32 (38 pinos)
 - 1 x Módulo NRF24L01
-- 20 x Servomotores (para todos os canais)
+- 20 x Servomotores (para todos os canais) funçoes programaveis (para todos os canais)
 - Protoboard e fios de conexão
 
 ## Conexões
@@ -121,7 +121,7 @@ Este projeto consiste em um transmissor e receptor de 6 canais utilizando a plac
 
 ---
 
-# 6-Channel Transmitter and Receiver using ESP32 and NRF24L01
+# 20-Channel Transmitter and Receiver using ESP32 and NRF24L01
 
 ## Sumário
 - [Descrição](#descrição)
@@ -593,6 +593,6 @@ if (data.button[1] == HIGH) {
 ```
 
 ## Conclusão
-Este README fornece as instruções necessárias para configurar e operar o sistema de transmissor e receptor de 6 canais utilizando ESP32 e NRF24L01. Certifique-se de seguir as conexões e carregar os códigos apropriados no transmissor e receptor. Utilize as seções de configuração de botões e componentes adicionais para personalizar o sistema de acordo com suas necessidades específicas.
+Este README fornece as instruções necessárias para configurar e operar o sistema de transmissor e receptor de 20 canais utilizando ESP32 e NRF24L01. Certifique-se de seguir as conexões e carregar os códigos apropriados no transmissor e receptor. Utilize as seções de configuração de botões e componentes adicionais para personalizar o sistema de acordo com suas necessidades específicas.
 
 ---
