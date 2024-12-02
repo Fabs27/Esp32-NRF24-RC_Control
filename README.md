@@ -117,7 +117,7 @@ Este projeto consiste em um transmissor e receptor de 6 canais utilizando a plac
 
 ---
 
-# 6-Channel Transmitter and Receiver using ESP32 and NRF24L01
+# 20-Channel Transmitter and Receiver using ESP32 and NRF24L01
 
 ## Sumário
 - [Descrição](#descrição)
