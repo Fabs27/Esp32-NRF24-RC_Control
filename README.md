@@ -589,6 +589,6 @@ if (data.button[1] == HIGH) {
 ```
 
 ## Conclusão
-Este README fornece as instruções necessárias para configurar e operar o sistema de transmissor e receptor de 6 canais utilizando ESP32 e NRF24L01. Certifique-se de seguir as conexões e carregar os códigos apropriados no transmissor e receptor. Utilize as seções de configuração de botões e componentes adicionais para personalizar o sistema de acordo com suas necessidades específicas.
+Este README fornece as instruções necessárias para configurar e operar o sistema de transmissor e receptor de 20 canais utilizando ESP32 e NRF24L01. Certifique-se de seguir as conexões e carregar os códigos apropriados no transmissor e receptor. Utilize as seções de configuração de botões e componentes adicionais para personalizar o sistema de acordo com suas necessidades específicas.
 
 ---
