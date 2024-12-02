@@ -1,8 +1,4 @@
-Aqui está a primeira parte do README detalhado para o projeto do transmissor e receptor de 6 canais utilizando ESP32 e NRF24L01, sem o código, com marcações para onde adicionar o código:
-
----
-
-# 6-Channel Transmitter and Receiver using ESP32 and NRF24L01
+# 20-Channel Transmitter and Receiver using ESP32 and NRF24L01
 
 ## Sumário
 - [Descrição](#descrição)
