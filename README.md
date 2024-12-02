@@ -36,7 +36,7 @@ Este projeto consiste em um transmissor e receptor de 6 canais utilizando a plac
 ### Receptor:
 - 1 x ESP32 (38 pinos)
 - 1 x Módulo NRF24L01
-- 20 x Servomotores (para todos os canais)
+- Até 20 x Servomotores (para todos os canais) / Funçoes Progamaveis
 - Protoboard e fios de conexão
 
 ## Conexões
